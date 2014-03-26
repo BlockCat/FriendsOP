@@ -1,0 +1,6 @@
+name: FriendsOP
+version: 1.2
+main: me.blockcat.friendsop.Friends
+commands:
+    friends:
+    fr:
